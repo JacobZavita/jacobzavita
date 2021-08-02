@@ -11,8 +11,7 @@ Check out my most recent project [PawPal](https://github.com/CharlotteFrancis/pa
 - 🤔 I’m looking for help with advanced Front-End Development
 - 💪 My background is in B2B SaaS Sales, Account Management, and Client Success.
 - 💬 Ask me about React, JavaScript, or CSS
-- 😄 Pronouns: He/Him/His
-- 🚵 🏃 Avid runner and mountain biker
+- 🏃 🚵 Avid runner and mountain biker
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacob-zavita/) or [jacobzavita@gmail.com](mailto:jacobzavita@gmail.com?subject=Hello)
 
 ### Skills:
