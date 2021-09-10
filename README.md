@@ -19,7 +19,6 @@ Check out my most recent project [PawPal](https://github.com/CharlotteFrancis/pa
 - <i class="devicon-css3-plain colored"></i> CSS
 - <i class="devicon-javascript-plain colored"></i> JavaScript
 - <i class="devicon-react-original colored"></i> React
-- https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg
 - <i class="devicon-vscode-plain colored"></i> VSCode
 - <i class="devicon-git-plain colored"></i> Git
 - <i class="devicon-bootstrap-plain colored"></i> Bootstrap
