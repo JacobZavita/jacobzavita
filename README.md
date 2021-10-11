@@ -39,4 +39,10 @@ Check out my most recent project [React-Dapp](https://github.com/JacobZavita/rea
 
 | Frontend | Backend | Solidity |
 | ----- | ----- | ----- |
-| a | b | c |
+| React | MongoDB | Ethers.js |
+| JavaScript | Express | Web3.js |
+| HTML | Node | Solidity |
+| CSS | GraphQL | |
+| Bootstrap | Sequelize | |
+| Material UI | MySQL | |
+
