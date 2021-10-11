@@ -15,15 +15,24 @@ Check out my most recent project [React-Dapp](https://github.com/JacobZavita/rea
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacob-zavita/) or [jacobzavita@gmail.com](mailto:jacobzavita@gmail.com?subject=Hello)
 
 ### Skills:
+*FrontEnd*
 - React
 - JavaScript
+- HTML
+- CSS
+- Bootstrap
+- Material UI
+
+*Web3*
+- Ethers.js
+- Web3.js
+- Solidity
+
+*Backend*
 - MongoDB
 - Express
 - Node
 - GraphSQL
 - Sequelize
 - MySQL
-- HTML
-- CSS
 - Git
-- Bootstrap
