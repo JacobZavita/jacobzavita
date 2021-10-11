@@ -25,4 +25,4 @@ Check out my most recent project [NFTs-React](https://github.com/JacobZavita/nft
 | Bootstrap | Sequelize | |
 | Material UI | MySQL | |
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobzavita&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobzavita&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=ffffff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
