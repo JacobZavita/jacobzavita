@@ -4,9 +4,9 @@
 
 I'm a Full-Stack Web Developer with a certificate in Full-Stack Web Development from UC Irvine. I love building things that transform problems into elegant and fun solutions.
 
-Check out my most recent project [React-Dapp](https://github.com/JacobZavita/react-dapp). Simple smart contract built on Ethereum network that let's visitors "wave" at me with the chance to winning some ETH.
+Check out my most recent project [NFTs-React](https://github.com/JacobZavita/nfts-react). Simple NFT collection to mint randomly generated SVGs. Currently working with an artist to make a new versions with more interesting artwork.
 
-- 🔭 I’m currently working on [Currency Convertor 2.0](https://github.com/JacobZavita/CurrencyConverter). (CurrencyConvertor was my first project at UC Irvine's Full-Stack Coding Bootcamp).
+- 🔭 I’m currently working on [Currency Convertor 2.0](https://github.com/JacobZavita/CurrencyConverter). CurrencyConvertor was my first project at UC Irvine's Full-Stack Coding Bootcamp. The original version was a simple frontend app on vanilla JavaScript saving the users data with local storage. New version is full MERN app made with Material UI.
 - 🌱 I’m currently learning React, Solidity, and Typescript.
 - 🤔 I’m looking for help with advanced Front-End Development
 - 💪 My background is in B2B SaaS Sales, Account Management, and Client Success.
@@ -15,29 +15,8 @@ Check out my most recent project [React-Dapp](https://github.com/JacobZavita/rea
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacob-zavita/) or [jacobzavita@gmail.com](mailto:jacobzavita@gmail.com?subject=Hello)
 
 ### Skills:
-*FrontEnd*
-- React
-- JavaScript
-- HTML
-- CSS
-- Bootstrap
-- Material UI
 
-*Web3*
-- Ethers.js
-- Web3.js
-- Solidity
-
-*Backend*
-- MongoDB
-- Express
-- Node
-- GraphSQL
-- Sequelize
-- MySQL
-- Git
-
-| Frontend | Backend | Solidity |
+| *Frontend* | *Backend* | *Web3* |
 | ----- | ----- | ----- |
 | React | MongoDB | Ethers.js |
 | JavaScript | Express | Web3.js |
@@ -45,4 +24,3 @@ Check out my most recent project [React-Dapp](https://github.com/JacobZavita/rea
 | CSS | GraphQL | |
 | Bootstrap | Sequelize | |
 | Material UI | MySQL | |
-
