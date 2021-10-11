@@ -37,6 +37,6 @@ Check out my most recent project [React-Dapp](https://github.com/JacobZavita/rea
 - MySQL
 - Git
 
-| One | Two |
-| ----- | ----- |
-| a | b |
+| Frontend | Backend | Solidity |
+| ----- | ----- | ----- |
+| a | b | c |
