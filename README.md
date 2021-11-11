@@ -21,8 +21,8 @@ Check out my most recent project [NFTs-React](https://github.com/JacobZavita/nft
 | React | MongoDB | Ethers.js |
 | JavaScript | Express | Web3.js |
 | HTML | Node | Solidity |
-| CSS | GraphQL | |
-| Bootstrap | Sequelize | |
+| CSS | GraphQL | Solana|
+| Bootstrap | Sequelize | Rust |
 | Material UI | MySQL | |
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobzavita&show_icons=true&bg_color=45,84ffc9,aab2ff,eca0ff&title_color=000000&text_color=000000)](https://github.com/anuraghazra/github-readme-stats)
